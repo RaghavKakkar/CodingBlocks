@@ -1,0 +1,23 @@
+h1{
+    color:darkslateblue;
+}
+
+h3{
+    position: sticky;
+    top: 10px;
+    border: solid darkslateblue;
+    color: white;
+    background-color: darkslateblue;
+}
+
+div{
+    border: solid white;
+    width: 50vw;
+    position:absolute;
+    left: 25vw;
+    background-color: white;
+}
+
+body{
+    background-color: darkslateblue;
+}
