@@ -1,0 +1,34 @@
+div{
+    margin: 15px;
+}
+
+#fname, #lname,#male,#female,#other{
+    position: static;
+}
+
+input{
+    position: absolute;
+    left: 20vw;
+}
+
+select{
+    position: absolute;
+    left: 20vw;
+}
+
+table {
+    border-width: 5px;
+    border-spacing: 5px;
+}
+
+th, td{
+    border-width: 2px;
+    padding: 5px;
+    
+}
+
+#break{
+    padding-top: 10%;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
