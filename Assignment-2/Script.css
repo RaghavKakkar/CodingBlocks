@@ -12,6 +12,7 @@ h3{
 
 div{
     border: solid white;
+    border-radius: 10px;
     width: 50vw;
     position:absolute;
     left: 25vw;
