@@ -1,0 +1,28 @@
+#hov{
+    border: 2px solid rgb(219, 125, 36);
+    width: 150px;
+    color:rgb(219, 125, 36);
+    height: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+.container{
+    min-height: 100vh;
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+*{
+    margin:0;
+}
+
+#hov:hover{
+    color:yellow;
+    border: 2px solid yellow;
+    cursor: pointer;
+    box-shadow: 5px 3px 4px yellow;
+    transform: translateY(-4px);
+}
