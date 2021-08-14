@@ -1,0 +1,17 @@
+section{
+    width: 300px;
+    padding: 20px;
+    box-shadow: 3px 4px rgba(0, 0, 0, 0.301);
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin: auto;
+}
+
+form{
+    margin-bottom: 20px;
+}
+
+#list{
+    border: 1px solid black;
+}
